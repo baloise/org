@@ -316,6 +316,7 @@ orgs:
         - stefan-jungo
         - rolfstebler
         - matal0
+        - MegaRusher
         privacy: closed
         repos:
           CICD-pipeline: admin
