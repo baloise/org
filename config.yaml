@@ -31,7 +31,6 @@ orgs:
     - sbubendorf
     - schlijo
     - seejaybee
-    - Solaflex
     - StefanHolmstock
     - ThomasSchoeb
     - tklueber
@@ -130,6 +129,7 @@ orgs:
     - simonboerlin
     - skytime-sh
     - sobabufe
+    - Solaflex
     - stefan-jungo
     - stefanschoe
     - StephanSST
@@ -570,7 +570,6 @@ orgs:
           BITS_SIAM-SID:
             description: 'BITS: SIAM Service Integration and Design'
             maintainers:
-            - Solaflex
             - vangual
             - matal0
             members:
