@@ -22,6 +22,8 @@ orgs:
     - kullmanp 
     - Tiliavir
     - svene
+    - dweber019
+    - mikevader
     members:
     - 6f1045
     - abrjak
@@ -31,6 +33,7 @@ orgs:
     - ArthurNeudeck
     - b016533
     - baengel
+    - balsam4000
     - BeateGuldenschuh
     - BenjaminMueller84
     - BerSteve
@@ -52,7 +55,6 @@ orgs:
     - didlika
     - dinupoker
     - Dr-Tech81
-    - dweber019
     - esbaloise
     - ErmacoraGregor
     - Feamusbal
@@ -84,9 +86,11 @@ orgs:
     - lazaki
     - lbiry
     - leubedane
+    - lordyo
     - lundak
     - lrommerskirchen
     - m4rc0z
+    - mmarinkov
     - manuel84
     - marcellobellini
     - MarkusFlorian79
@@ -96,7 +100,6 @@ orgs:
     - MegaRusher
     - MelPiw
     - MicBag
-    - mikevader
     - mk-it-easy
     - mladenplaninicic
     - monkold
@@ -123,6 +126,7 @@ orgs:
     - rothmarco
     - samira-liebendoerfer
     - sauterl
+    - silvansievers
     - stefan-jungo
     - simonboerlin
     - skytime-sh
@@ -140,7 +144,6 @@ orgs:
     - tommuelli
     - trichie
     - tschneichel
-    - vangual
     - VasilijeRadulovic
     - yannickholzenkamp
     - YvesVdm
@@ -159,6 +162,9 @@ orgs:
     - udamken
     - thomasboegl1
     - JanMoritz23
+    - balsst
+    - MartinBartolome
+    - gitgood-rmrf
     teams:
       Organization Managers:
         description: Baloise GitHub Organization Managers
