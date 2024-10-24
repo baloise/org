@@ -169,6 +169,7 @@ orgs:
     - gitgood-rmrf
     - baloiseschoenholz
     - baloiseoswaldm
+    - mebagel
     teams:
       Organization Managers:
         description: Baloise GitHub Organization Managers
