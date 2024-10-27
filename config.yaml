@@ -170,6 +170,7 @@ orgs:
     - baloiseschoenholz
     - baloiseoswaldm
     - mebagel
+    - trichie
     teams:
       Organization Managers:
         description: Baloise GitHub Organization Managers
